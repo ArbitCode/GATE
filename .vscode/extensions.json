@@ -4,14 +4,13 @@
 
 	// List of extensions which should be recommended for users of this workspace.
 	"recommendations": [
-		"yzhang.markdown-all-in-one",
 		"github.vscode-pull-request-github",
 		"mhutchie.git-graph",
 		"donjayamanne.githistory",
 		"ziyasal.vscode-open-in-github",
-		"pkief.material-icon-theme",
 		"wayou.vscode-todo-highlight",
-		"gruntfuggly.todo-tree"
+		"gruntfuggly.todo-tree",
+		"binaryera.be-markdown-extension"
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [

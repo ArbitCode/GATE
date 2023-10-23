@@ -4,7 +4,7 @@
 
 Total Videos  :six::six:
 
-Daily videos :one::zero: :fire:
+Daily videos :one::zero: 🔥
 
 ## :one: [YT NovDay1][LOGIC_NOV_DAY1_YT_LINK]
 
