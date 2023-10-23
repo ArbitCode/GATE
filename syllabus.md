@@ -20,15 +20,16 @@
 
 | Completed :fire: | In Progress :building_construction: | Pending :hourglass: |
 |:----------------------------:|:-----------------------------------:|:-------------------:|
-|                              |DM                                   |TOC
-|                              |                                     |DBMS
-|                              |                                     |CN  
-|                              |                                     |DL  
-|                              |                                     |C
-|                              |                                     |DSA
-|                              |                                     |OS  
-|                              |                                     |CD  
-|                              |                                     |COA
+|                              |[DM](1NovDM/DM.md)                   |[DL](2DecDL/DL.md)
+|                              |                                     |[TOC](3JanToc/TOC.md)
+|                              |                                     |[DBMS](4FebDBMS/DBMS.md)
+|                              |                                     |[CN](5MarCN/CN.md)
+|                              |                                     |[C](6AprilC/C.md)
+|                              |                                     |[DSA](7MayDSA/DSA.md)
+|                              |                                     |[GA](8JuneGA/GA.md)
+|                              |                                     |[OS](9JulyOS/OS.md)
+|                              |                                     |[CD](10AugCD/CD.md)
+|                              |                                     |[COA](11SeptCOA/COA.md)
 
 [DM_YT_LINK]:      https://www.youtube.com/watch?v=bfAYYLamQPQ&list=PLC36xJgs4dxEYmhzVBW7nBdftFZ4xmiF1
 [TOC_YT_LINK]:     https://www.youtube.com/watch?v=5Hp0jrSkbGE&list=PLC36xJgs4dxGvebewU4z2CZYo-8nB93E7
