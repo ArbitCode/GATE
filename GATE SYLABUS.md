@@ -1,7 +1,7 @@
 # GATE Syllabus
 
 :white_check_mark:  DM, DL, C, TOC, DBMS, CN \
-:building_construction: DSA \
+:building_construction: DSA, GA \
 :hourglass:     COA, CD, OS \
 :point_down:    Logical Algebra, Calculus, P&S
 
