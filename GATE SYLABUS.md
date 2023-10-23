@@ -9,9 +9,9 @@
 
 |Completed :white_check_mark:                             |In Progress  :building_construction:   |Pending    :hourglass: |
 | :------------------------------------:| :----:|:------------------------------:|
-|[Discrete Maths][DM_YT_LINK]          |[Data Structures and Algorithms][DSA_YT_LINK]    |OS
-|[Theory Of Computation][TOC_YT_LINK]   |       |CD
-|[Databases/DBMS][DBMS_YT_LINK]         |       |COA
+|[Discrete Maths][DM_YT_LINK]           |[Data Structures and Algorithms][DSA_YT_LINK]  |OS
+|[Theory Of Computation][TOC_YT_LINK]   |[Aptitude][GA_YT_LINK]                         |CD
+|[Databases/DBMS][DBMS_YT_LINK]         |                                               |COA
 |[Computer Network][CN_YT_LINK]
 |[Digital Logic][DL_YT_LINK]
 |[C Programming][C_YT_LINK]
@@ -37,3 +37,4 @@
 [DL_YT_LINK]:      https://www.youtube.com/watch?v=elqrlY0L0ds&list=PLC36xJgs4dxEErKQZ7xFxat8oh4OepU34
 [C_YT_LINK]:       https://www.youtube.com/watch?v=U9dv2wvZ2UI&list=PLC36xJgs4dxG-IqARhc23jYTDMYt7yvZP
 [DSA_YT_LINK]:     https://www.youtube.com/watch?v=dBe1EnUpBaA&list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy
+[GA_YT_LINK]:      https://www.youtube.com/watch?v=p1ux1j0bRWA&list=PLC36xJgs4dxE43Au1FGRQvwHTr7NbgDCS
