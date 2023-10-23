@@ -7,10 +7,10 @@
 
 ## Lecture Table [Link](https://linktr.ee/amitkhurana.gatecse 'Amit Khurana')
 
-|Completed :white_check_mark:                             |In Progress  :building_construction:   |Pending    :hourglass: |
-| :------------------------------------:| :----:|:------------------------------:|
+|Completed :white_check_mark:           |In Progress  :building_construction:           |Pending    :hourglass: |
+| :------------------------------------:| :--------------------------------------------:|:---------------------:|
 |[Discrete Maths][DM_YT_LINK]           |[Data Structures and Algorithms][DSA_YT_LINK]  |OS
-|[Theory Of Computation][TOC_YT_LINK]   |[General Aptitude][GA_YT_LINK]                         |CD
+|[Theory Of Computation][TOC_YT_LINK]   |[General Aptitude][GA_YT_LINK]                 |CD
 |[Databases/DBMS][DBMS_YT_LINK]         |                                               |COA
 |[Computer Network][CN_YT_LINK]
 |[Digital Logic][DL_YT_LINK]
