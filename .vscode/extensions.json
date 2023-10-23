@@ -11,7 +11,8 @@
 		"wayou.vscode-todo-highlight",
 		"gruntfuggly.todo-tree",
 		"binaryera.be-markdown-extension",
-		"ms-vscode.cpptools-extension-pack"
+		"ms-vscode.cpptools-extension-pack",
+		"ritwickdey.liveserver"
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [
