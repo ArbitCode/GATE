@@ -1,14 +1,14 @@
 # GATE Syllabus
 
-:white_check_mark:  DM, DL, C, TOC, DBMS, CN
-:building_construction: DSA
-:hourglass:     COA, CD, OS
+:white_check_mark:  DM, DL, C, TOC, DBMS, CN \
+:building_construction: DSA \
+:hourglass:     COA, CD, OS \
 :point_down:    Logical Algebra, Calculus, P&S
 
 ## Lecture Table [Link](https://linktr.ee/amitkhurana.gatecse 'Amit Khurana')
 
 |Completed :white_check_mark:           |In Progress  :building_construction:           |Pending    :hourglass: |
-| :------------------------------------:| :--------------------------------------------:|:---------------------:|
+|:-------------------------------------:|:---------------------------------------------:|:---------------------:|
 |[Discrete Maths][DM_YT_LINK]           |[Data Structures and Algorithms][DSA_YT_LINK]  |OS
 |[Theory Of Computation][TOC_YT_LINK]   |[General Aptitude][GA_YT_LINK]                 |CD
 |[Databases/DBMS][DBMS_YT_LINK]         |                                               |COA
@@ -18,17 +18,17 @@
 
 ## My Table
 
-|In Progress :building_construction: |Completed :fire:  | Pending     :hourglass: |
-|:----------:|:---------:|:--------:|
-|    DM      |           |    TOC   |
-|            |           |    DBMS  |
-|            |           |    CN    |
-|            |           |    DL    |
-|            |           |    C     |
-|            |           |    DSA   |
-|            |           |    OS    |
-|            |           |    CD    |
-|            |           |    COA   |
+| Completed :fire: | In Progress :building_construction: | Pending :hourglass: |
+|:----------------------------:|:-----------------------------------:|:-------------------:|
+|                              |DM                                   |TOC
+|                              |                                     |DBMS
+|                              |                                     |CN  
+|                              |                                     |DL  
+|                              |                                     |C
+|                              |                                     |DSA
+|                              |                                     |OS  
+|                              |                                     |CD  
+|                              |                                     |COA
 
 [DM_YT_LINK]:      https://www.youtube.com/watch?v=bfAYYLamQPQ&list=PLC36xJgs4dxEYmhzVBW7nBdftFZ4xmiF1
 [TOC_YT_LINK]:     https://www.youtube.com/watch?v=5Hp0jrSkbGE&list=PLC36xJgs4dxGvebewU4z2CZYo-8nB93E7
