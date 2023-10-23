@@ -10,7 +10,8 @@
 		"ziyasal.vscode-open-in-github",
 		"wayou.vscode-todo-highlight",
 		"gruntfuggly.todo-tree",
-		"binaryera.be-markdown-extension"
+		"binaryera.be-markdown-extension",
+		"ms-vscode.cpptools-extension-pack"
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [
