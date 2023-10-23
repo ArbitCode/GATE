@@ -19,17 +19,17 @@
 ## My Table
 
 | Completed :fire: | In Progress :building_construction: | Pending :hourglass: |
-|:----------------------------:|:-----------------------------------:|:-------------------:|
-|                              |[DM](1NovDM/DM.md)                   |[DL](2DecDL/DL.md)
-|                              |                                     |[TOC](3JanToc/TOC.md)
-|                              |                                     |[DBMS](4FebDBMS/DBMS.md)
-|                              |                                     |[CN](5MarCN/CN.md)
-|                              |                                     |[C](6AprilC/C.md)
-|                              |                                     |[DSA](7MayDSA/DSA.md)
-|                              |                                     |[GA](8JuneGA/GA.md)
-|                              |                                     |[OS](9JulyOS/OS.md)
-|                              |                                     |[CD](10AugCD/CD.md)
-|                              |                                     |[COA](11SeptCOA/COA.md)
+|:----------------------------:|:-----------------------------------|:-------------------|
+|                              |[1.DM](1NovDM/DM.md)                 |[2.DL](2DecDL/DL.md)
+|                              |                                     |[3.TOC](3JanToc/TOC.md)
+|                              |                                     |[4.DBMS](4FebDBMS/DBMS.md)
+|                              |                                     |[5.CN](5MarCN/CN.md)
+|                              |                                     |[6.C](6AprilC/C.md)
+|                              |                                     |[7.DSA](7MayDSA/DSA.md)
+|                              |                                     |[8.GA](8JuneGA/GA.md)
+|                              |                                     |[9.OS](9JulyOS/OS.md)
+|                              |                                     |[10.CD](10AugCD/CD.md)
+|                              |                                     |[11.COA](11SeptCOA/COA.md)
 
 [DM_YT_LINK]:      https://www.youtube.com/watch?v=bfAYYLamQPQ&list=PLC36xJgs4dxEYmhzVBW7nBdftFZ4xmiF1
 [TOC_YT_LINK]:     https://www.youtube.com/watch?v=5Hp0jrSkbGE&list=PLC36xJgs4dxGvebewU4z2CZYo-8nB93E7
