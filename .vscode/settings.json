@@ -6,7 +6,6 @@
     "editor.scrollbar.horizontal": "auto",
     "editor.dragAndDrop": true,
     "editor.mouseWheelZoom": true,
-    "editor.find.autoFindInSelection": "always",
     "editor.bracketPairColorization.enabled": true,
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "editor.guides.bracketPairsHorizontal": "active",
