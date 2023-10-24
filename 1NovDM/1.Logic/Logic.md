@@ -85,7 +85,7 @@ Here P & Q are Logical/Propositional variable which store propositional statemen
 
 ##### Truth table
 
-Logic True &rarr; T; False &rarr; F 
+Logic True &rarr; T; False &rarr; F
 |A|B|A^B|A∨B|~A|
 |:--:|:--:|:--:|:--:|:--:|
 |F|F|F|F :fire:|T|
@@ -143,6 +143,53 @@ Set Theory : F &rarr; Φ ; T &rarr; U
     `A.0 = 0`
 
 ### Derived Operators & Properties
+
+&uarr; (NAND), &darr; (NOR), ⊕ (XOR), &harr; (XNOR), &rarr;
+| P | Q | P &uarr; Q (NAND) | P &darr; Q (NOR)| P ⊕ Q (XOR)| P &harr; Q (XNOR)|P &rarr; Q|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+F|F|T|T 🔥|F|T|T|
+F|T|T|F|T 🔥|F 🔥|T |
+T|F|T|F|T|F|F 🔥|
+T|T|F 🔥|F|F|T|T|
+
+#### Derived Operator Properties
+
+- All Are commutative except &rarr;
+- Associative &uarr; (NAND) and ⊕ (XOR)
+  
+|commutative|Associative||
+|:--:|:--:|:--:|
+✅|✅|⊕ (XOR), &harr; (XNOR)
+✅|⛔|&uarr; (NAND), &darr; (NOR)
+⛔|⛔|&rarr;
+
+- Distributive = It can have multiple combination aprrox 42.
+- P ⊕ Q = P'Q + PQ'
+- P &rarr; Q = P' + Q
+- ⊕ (XOR) => Diffrences
+- &harr; (XNOR) => Similarity
+- diffrences
+  p' ⊕ Q = P &harr; Q
+  p ⊕ Q' = P &harr; Q
+  P' ⊕ Q' = p &harr; Q
+- Similarity
+   p' &harr; Q = P ⊕ Q
+  p &harr; Q' = P ⊕ Q
+  P' &harr; Q' = p &harr; Q
+
+#### Derived Operator Questions
+
+1. &rarr; is distributive over ∨ ?
+2. ∨ is distributive over &rarr; ?
+3. truth table is given
+   |P|Q|P%Q|
+   |:--:|:--:|:--:|
+   |0|0|0|
+   |0|1|1|
+   |1|0|0|
+   |1|1|1|
+
+   `P % Q = P'Q + PQ`
 
 ## :two: [YT NovDay2][LOGIC_NOV_DAY2_YT_LINK]
 
