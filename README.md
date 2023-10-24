@@ -28,7 +28,7 @@ git update-index --assume-unchanged InOutPutFile/input.txt
 
 - Type `Profiles: Import Profile` and select it.  
 
-- Paste Gist URL to import profile [https://gist.github.com/ArbitCode/517c58900f0bee9933e54708cbf96d1e](https://gist.github.com/ArbitCode/517c58900f0bee9933e54708cbf96d1e)  
+- Paste Gist URL to import profile [https://gist.github.com/ArbitCode/572317c8e7f2783559323669daf67104](https://gist.github.com/ArbitCode/572317c8e7f2783559323669daf67104)  
 
 - Press `Enter`  
 
@@ -49,7 +49,7 @@ git update-index --assume-unchanged InOutPutFile/input.txt
 
 #### :anatomical_heart: Run Code(Ctrl+Alt+N)
 
--  On **MacOS/Linux**
+- On **MacOS/Linux**
 - Write input into [input.txt](InOutPutFile/input.txt).
 - Press `Run Code or type (Ctrl+Alt+N)`
 - Output written into [output.txt](InOutPutFile/output.txt)
