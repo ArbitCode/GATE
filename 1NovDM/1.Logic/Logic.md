@@ -11,12 +11,12 @@ Daily videos :one::zero: 🔥
 ```mermaid
   graph TD;
     L[Logic] --> P[Proposition];
-    L --> LO[🌟 Logical Operator];
+    L --> LO[ Logical Operator];
     L --> RI[Rules of interface];
-    L --> A[🌟 Arguments];
+    L --> A[ Arguments];
     L --> Q[Quantifiers];
-    L --> |Easy| PP[🌟 Predicate Properties];
-    L --> |Rosen Excercise must |T[🌟🌟 Translations];
+    L --> |Easy| PP[Predicate Properties];
+    L --> |Rosen Excercise must |T[ Translations];
 ```
 
 ## :two: [YT NovDay2][LOGIC_NOV_DAY2_YT_LINK]
