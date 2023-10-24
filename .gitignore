@@ -32,3 +32,4 @@ Runner
 *.exe
 *.out
 *.app
+InOutPutFile/output.txt

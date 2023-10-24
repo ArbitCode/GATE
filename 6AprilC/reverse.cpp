@@ -16,7 +16,6 @@ void reverse(string& s){
 
 int main(){
     string s1;
-    cout << "Enter String : ";
     getline(cin, s1);
     reverse(s1);
     cout << "Reverse String : " << s1 << "\n";
