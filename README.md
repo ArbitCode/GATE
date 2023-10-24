@@ -11,8 +11,13 @@
 ✅ **Clone Respository**
 
 ```bash
-git clone https://github.com/ArbitCode/GATE.git
+#Clone into GATE dir
+git clone https://github.com/ArbitCode/GATE.git GATE
+#Open GATE dir in VSCode 
 code GATE
+#Update-index to assume unchanged input.txt 
+git update-index --assume-unchanged InOutPutFile/input.txt
+
 ```
 
 ✅ **Import VScode Profile For Enhanced View**  
