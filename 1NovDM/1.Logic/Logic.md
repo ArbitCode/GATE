@@ -71,8 +71,8 @@ Here P & Q are Logical/Propositional variable which store propositional statemen
 
 ```mermaid
   graph TD;
-  O[operators] --> |^, ∨, ~| P[Primary];
-  O -->  |↑, ↓, →, ↔, ⊕| S[Secondray];
+  O[operators] --> |AND, OR,  NOT| P[Primary];
+  O -->  |NAND, NOR, XOR, XNOR| S[Secondray];
 ```
 
 #### Properties of basic or fundamental Operators
