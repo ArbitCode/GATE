@@ -26,7 +26,7 @@
     //extensions
     "extensions.ignoreRecommendations": false,
 
-    //C/C++ Runner
+    //code-runner
     "code-runner.clearPreviousOutput": false,
     "code-runner.runInTerminal": false,
     "code-runner.showStopIconInEditorTitleMenu": true,

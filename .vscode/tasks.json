@@ -63,6 +63,7 @@
             "label": "C/C++ : Run active file(MacOS/Linux)",
             "type": "shell",
             "command":"${workspaceFolder}/Runner/${fileBasenameNoExtension}.exe",
+            "args": ["<", "InOutPutFile/input.txt", ">", "InOutPutFile/output.txt"],
             "group": {
                 "kind": "test",
                 "isDefault": true
