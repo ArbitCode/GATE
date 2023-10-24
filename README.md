@@ -1,4 +1,4 @@
-# :fire: GATE is all about PRACTICE :crossed_fingers:
+# :fire: GATE is all about PRACTICE/Logical but not Factual :crossed_fingers:
 
 ## :books: [Syllabus](syllabus.md#my-table)
 
