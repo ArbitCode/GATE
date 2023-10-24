@@ -58,6 +58,92 @@ A declarative statement which is `either true or false` but `not both`.
 9. This board is white ✅
 10. This is a book ✅
 
+### Logical Operators OR connectives
+
+Logical or Propositional Variable
+
+- P : I have time.
+- Q : I will go to market.  
+
+Here P & Q are Logical/Propositional variable which store propositional statement.
+
+#### Operators Type
+
+```mermaid
+  graph TD;
+  O[operators] --> |^, ∨, ~| P[Primary]
+  O -->  |&uarr;, &darr;, &rarr;, &harr;, ⊕ |Secondray
+```
+
+#### Properties of basic or fundamental Operators
+
+|Name|Boolean Algebra(0, 1)|Set Theory(Φ,U)|Logic(False, True)
+|:--:|:--:|:--:|:--:|
+|OR|+|∪|∨|
+|AND|.|∩|^|
+|NOT|A', Ā|A', Ā, A<sup>c</sup>|~A|
+
+##### Truth table
+
+Logic True &rarr; T; False &rarr; F 
+|A|B|A^B|A∨B|~A|
+|:--:|:--:|:--:|:--:|:--:|
+|F|F|F|F :fire:|T|
+|F|T|F|T|T|
+|T|F|F|T|F|
+|T|T|T :fire:|T|F|
+
+Boolean Theory :  F &rarr; 0; T &rarr; 1
+|A|B|A^B|A∨B|~A|
+|:--:|:--:|:--:|:--:|:--:|
+|0|0|0|0 :fire:|1|
+|0|1|0|1|1|
+|1|0|0|1|0|
+|1|1|1 :fire:|1|0|
+
+Set Theory : F &rarr; Φ ; T &rarr; U
+|A|B|A^B|A∨B|~A|
+|:--:|:--:|:--:|:--:|:--:|
+|Φ|Φ|Φ|Φ :fire:|U|
+|Φ|U|Φ|U|U|
+|U|Φ|Φ|U|Φ|
+|U|U|U :fire:|U|Φ|
+
+##### Properties
+
+1. Commutative
+    `A.B = A.B`
+    `A+B = B+A`
+2. Associative
+   `A+(B+C) = (A+B)+C`
+   `A.(B.C) = (A.B).C`
+3. Distributive
+  `A+(B.C) = (A+B).(A+C)`
+  `A.(B+C) = (A.B)+(A.C)`
+4. Indentity
+   `A+0=A`
+   `A.1=A`
+5. complementry
+   `A+A' = 1`
+   `A.A' = 0`
+6. Idempotent Law
+   `A+A = A`
+   `A.A = A`
+7. Absorbtion Law
+   `A+ĀB = A + B`
+   `A+AB = A`
+   `A.(A+B) = A`
+8. Law of double complement
+   `(A')' = A`
+9. Demorgan's Law
+    `Change the sign break the line.`
+     `(A.B)' = (A')+(B')`
+10. Domination Law
+    `A+1 = 1`
+    `A.0 = 0`
+
+### Derived Operators & Properties
+
 ## :two: [YT NovDay2][LOGIC_NOV_DAY2_YT_LINK]
 
 ## :three: [YT NovDay3][LOGIC_NOV_DAY3_YT_LINK]
