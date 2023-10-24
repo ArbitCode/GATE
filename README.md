@@ -15,6 +15,8 @@
 git clone https://github.com/ArbitCode/GATE.git GATE
 #Open GATE dir in VSCode 
 code GATE
+#change dir
+cd GATE
 #Update-index to assume unchanged input.txt 
 git update-index --assume-unchanged InOutPutFile/input.txt
 
