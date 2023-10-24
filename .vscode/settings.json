@@ -35,9 +35,9 @@
     "code-runner.executorMap": {
         "javascript": "node",
         "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
-        "c": "gcc $dir$fileName -o Runner/$fileNameWithoutExt.exe && Runner/$fileNameWithoutExt.exe < InOutPutFile/input.txt > InOutPutFile/output.txt",
+        "c": "gcc $dir$fileName -o Runner/$fileNameWithoutExt.exe && Runner/$fileNameWithoutExt.exe < InOutPutFile/input.txt > InOutPutFile/output.txt && echo 'output.txt:' && cat InOutPutFile/output.txt",
         "zig": "zig run",
-        "cpp": "g++ $dir$fileName -o Runner/$fileNameWithoutExt.exe && Runner/$fileNameWithoutExt.exe < InOutPutFile/input.txt > InOutPutFile/output.txt",
+        "cpp": "g++ $dir$fileName -o Runner/$fileNameWithoutExt.exe && Runner/$fileNameWithoutExt.exe < InOutPutFile/input.txt > InOutPutFile/output.txt && echo 'output.txt:' && cat InOutPutFile/output.txt",
         "objective-c": "cd $dir && gcc -framework Cocoa $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
         "php": "php",
         "python": "python -u",

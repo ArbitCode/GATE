@@ -35,3 +35,28 @@ git update-index --assume-unchanged InOutPutFile/input.txt
 - Press `Create Profile` button.  
 
 - Press `Enter`  
+
+### ✅ **How to Build, Run and Clean C/C++ Programme**
+
+#### 🏃‍♀️ VSCode Run Task
+
+- On Windows/MacOS/Linux
+  - Write input value into [input.txt](InOutPutFile/input.txt).
+  - Press `Ctrl+Shift+P` to open the command Palette.
+  - Type `Tasks: Run Task` and press Enter
+  - Type `C/C++: Run on Windows` and press Enter.
+  - Output written into [output.txt](InOutPutFile/output.txt)
+
+#### 🖥 Run Code(Ctrl+Alt+N) Only On MacOS/Linux
+
+- Write input value into [input.txt](InOutPutFile/input.txt).
+- Press `Run Code or type (Ctrl+Alt+N)`
+- Output written into [output.txt](InOutPutFile/output.txt)
+- `Note:` On Windows `Run Code(Ctrl+Alt+N)` is not working currently.
+
+#### 🚮 Build Clean
+
+- **VSCode Run Task**
+  - Press `Cmd/Ctrl+Shift+P` to open the command Palette.
+  - Type `Tasks: Run Task` and press Enter
+  - Type `C/C++: Clean Build` and press Enter.
