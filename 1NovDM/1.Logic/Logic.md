@@ -8,6 +8,17 @@ Daily videos :one::zero: 🔥
 
 ## :one: [YT NovDay1][LOGIC_NOV_DAY1_YT_LINK]
 
+```mermaid
+  graph TD;
+    L[Logic] --> P[Proposition]
+    L --> LO[🌟 Logical Operator]
+    L --> RI[Rules of interface]
+    L --> A[🌟 Arguments]
+    L --> Q[Quantifiers]
+    L --> |Easy| PP[🌟 Predicate Properties]
+    L --> |Rosen Excercise must |T[🌟🌟 Translations]
+```
+
 ## :two: [YT NovDay2][LOGIC_NOV_DAY2_YT_LINK]
 
 ## :three: [YT NovDay3][LOGIC_NOV_DAY3_YT_LINK]
