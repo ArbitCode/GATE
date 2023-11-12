@@ -19,7 +19,7 @@ Daily videos :one::zero: 🔥
     L --> |Imp, Rosen Excercise must |T[ Translations];
 ```
 
-### Propositions
+### Propositions => Dead easy question not in GATE
 
 A declarative statement which is `either true or false` but `not both`.
 
@@ -29,7 +29,7 @@ A declarative statement which is `either true or false` but `not both`.
 - ❌ He is tall. [`third person is not perposition`]
 - ✅ 2 + 5 = 10 [`truth value = false`]
 - ❌ x + y = 5 [`truth value = flase/true`]
-- ❌ exclamatory, command, question marks are not perpositions
+- ❌ exclamatory, command, question, emotions not perpositions
 - ❌ This sentance is true [`truth value = false/true`]
 - ❌ `Paradox` => contradictory
 
@@ -43,7 +43,7 @@ A declarative statement which is `either true or false` but `not both`.
     F --> T;
   ```
 
-#### `Note - At finite time truth value should be fixed`
+#### `Propostion: Note - At finite time truth value should be fixed`
 
 #### Questions
 
@@ -60,10 +60,11 @@ A declarative statement which is `either true or false` but `not both`.
 
 ### Logical Operators OR connectives
 
-Logical or Propositional Variable
+`Logical or Propositional Variable`
 
 - P : I have time.
 - Q : I will go to market.  
+- P & Q : I have time and I will go to market. => `Compound Proposition.`
 
 Here P & Q are Logical/Propositional variable which store propositional statement.
 
@@ -94,7 +95,7 @@ Logic True &rarr; T; False &rarr; F
 |T|T|T :fire:|T|F|
 
 Boolean Theory :  F &rarr; 0; T &rarr; 1
-|A|B|A^B|A∨B|~A|
+|A|B|A.B|A+B|~A|
 |:--:|:--:|:--:|:--:|:--:|
 |0|0|0|0 :fire:|1|
 |0|1|0|1|1|
@@ -102,14 +103,17 @@ Boolean Theory :  F &rarr; 0; T &rarr; 1
 |1|1|1 :fire:|1|0|
 
 Set Theory : F &rarr; Φ ; T &rarr; U
-|A|B|A^B|A∨B|~A|
+|A|B|A∩B|A∪B|~A|
 |:--:|:--:|:--:|:--:|:--:|
 |Φ|Φ|Φ|Φ :fire:|U|
 |Φ|U|Φ|U|U|
 |U|Φ|Φ|U|Φ|
 |U|U|U :fire:|U|Φ|
 
-##### Properties
+`Note : AND True if both true. OR True if anyone True.
+T <=> 1 <=> U | F <=> 0 <=> Φ`
+
+##### Properties of Basic Logical Operators(OR, AND, NOT) `*VVIP (Laws)`
 
 1. Commutative
     `A.B = A.B`
